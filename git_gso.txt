@@ -1,1 +1,15 @@
-# git_gso
+#GSÖ1TÖ05AU-TH
+#Gagnasöfnum
+
+##Inngangur
+Þessi ritunar verkefni mun fjalla um gagnasöfnum, hvernig þau eru geymd og í hvaða formi.
+
+###Gögn
+Gögn geta verið hvaða upplýsingar sem er, eins og brandarar í bók, bók í bókasafn, listaverk í listasafn, vídeo á youtube, tölvuleikir á steam og veðsíður sem google vélin veit um og fleira.
+####Stafræn
+Það er hægt að geyma miklan magn af gögnum inní tölvur með stafrænum gagnasöfnum, og það er líka hægt af fá „Cloud server“ eða aðra vefsíðu til að setja gögn í og svo sækja þau frá hvar sem er með internet tengingu.
+####Rafræn
+Munurin á rafrænu tækni og stafrænu er að stafrænar upplýsingar (eins og binary) er þýtt með tölvur eins og MP3 spilara, en rafræn tæki nota hluti eins og vinyl hljómplötur og VHS myndbönd.
+####Pappír
+Þótt að „E-Books“ og hlóðbækur eru notuð mikið, bókasöfn eru ekki enþá úrelt, og fólk eru enn með tímarit og fréttablaða áskriftir stundum með app sem leyfir þér að lesa blöðin áður enn þau lenda í bréfalúguna, og helst með vörur eða gjafakóða innifalið með sum tímarit til að gefa þeim auka virði.
+Pappír geta mögulega dugið lengur enn stafrænar upplýsingar ef það er farið vel með það.
