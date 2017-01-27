@@ -15,3 +15,5 @@ Munurin á rafrænu tækni og stafrænu er að stafrænar upplýsingar (eins og 
 Pappír geta mögulega dugið lengur enn stafrænar upplýsingar ef það er farið vel með það.
 ###Gagnasafn
 Gagnasöfn eru staðir þar sem þú geymir gögn, stundum eru þau deilt með öðrum, og stundum eru þau einkamál. Youtube,Vimeo og flickr er gagnasöfn fyrir myndbönd, Imgur fyrir myndir, .gif og .webm, steam fyrir tölvuleiki og facebook fyrir upplýsingar um það sem þú og vinir þínir deila.
+###Gagnsafnaskerfi
+Gagnasöfn sem eru nógu stór þurfa gott kerfi til að skipuleggja gögnin svo þú getur fundið þau milli öll hin gögnin, það gæti verið bókasafns fræðingur, leitar forrit eins og google og youtube og stýrikerfið á tölvunni þinni.
